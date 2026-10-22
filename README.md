@@ -66,10 +66,10 @@ When "Yes" is finally selected, a celebration animation begins with floating hea
 Happy Valentine's Day, my love! I've poured my heart into creating this website just for you. Every color, animation, and word was chosen with care to express how deeply I feel for you. You make every day special, and I hope this small token of my affection brings a smile to your face.
 
 With all my love and devotion,
-Miguel
+Denver
 
 ---
 
 <div align="center">
-  <p>© 2025 Made with ❤️ by Miguel</p>
+  <p>© 2025 Made with ❤️ by Denver Bentulan</p>
 </div>
